@@ -1,0 +1,23 @@
+/*selector universal*/
+* {
+    margin: 0px;
+    padding: 0px;
+}
+/*etiquetas generales*/
+body {
+    background-image: url("huesitos.jpg");
+}
+p{color: crimson;}
+/*estilos puntuales*/
+label, h1{
+    color: darkblue;
+} 
+.perros{
+    text-align: center;
+    color: darkslateblue;
+}
+
+h1{font-size: 50px;}
+p{font-size: 25px;}
+
+.footer {color: darkolivegreen;}
